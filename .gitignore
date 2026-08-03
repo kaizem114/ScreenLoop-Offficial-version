@@ -1,0 +1,54 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+MemoryCaptures/
+Recordings/
+
+# Crash logs
+*.log
+sysinfo.txt
+mono_crash.*
+
+# IDE files
+.vs/
+.gradle/
+.consulo/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.VC.db
+
+# JetBrains Rider
+Assets/Plugins/Editor/JetBrains*
+*.DotSettings.user
+
+# Builds
+*.apk
+*.aab
+*.app
+*.unitypackage
+
+# Addressables generated files
+ServerData/
+Assets/StreamingAssets/aa*
+Assets/Addressables_Temp*
+Assets/AddressableAssetsData/*/*.bin*
+
+# Visual scripting generated files
+Assets/Unity.VisualScripting.Generated/
+
+# Test generated scenes
+Assets/*InitTestScene*.unity*
